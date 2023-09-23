@@ -16,7 +16,7 @@ env\Scripts\activate
 
 5. desactivar virtualenv
 deactivate
-
+cd
 6.
 pip install -r requirements.txt
 
